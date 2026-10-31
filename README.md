@@ -1,3 +1,4 @@
+
 # NexaBank — Banking Products Dashboard
 
 A responsive, high-polish digital banking dashboard built for a Junior / Full-Stack Developer assessment. The application allows users to discover, search, filter, sort, and inspect diverse financial products across savings, credit, loan, and wealth categories from a single unified screen.
@@ -126,4 +127,5 @@ All mock data is isolated inside `src/data/products.js` to ensure clean separati
 ## 8. Compliance & Demonstration Notice
 
 > **Important Notice**: This application was created solely for demonstration and assessment purposes. All financial figures, interest rates, credit limits, account numbers, and investment returns are fictional, illustrative demonstration data. This application does not connect to any actual banking systems, core banking engines, credit bureaus, or financial payment gateways. Fictional investment returns are not indicative of guaranteed future yield.
+
 
